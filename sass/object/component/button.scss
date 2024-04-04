@@ -1,0 +1,12 @@
+@mixin styledBtn{
+    font-size: 14px;
+            font-weight: bold;
+            width: 307px;
+            height: 72px;
+            border-radius: 50px;
+            background-color: $colorBlue;
+            letter-spacing: 3px;
+            border: none;
+            outline: none;
+            color: $colorWhite;
+}
