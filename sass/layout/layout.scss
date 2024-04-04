@@ -3,9 +3,12 @@ body{
 }
 header{
     margin: 0 auto;
-width: 1280px;
+width: 100vw;
 height: 900px;
 background:linear-gradient(rgba(14, 14, 218,0.2),rgba(14, 14, 218,0.3)),url("../../../images/mainvisual-bg.png");
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
 
 }
 main{
